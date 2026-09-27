@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+
+# Model Checkpoints (files > 100MB cannot be pushed to GitHub without Git LFS)
+*.pth
+*.pt
+*.bin
+ml/checkpoints/
+
+# macOS / OS artifacts
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes

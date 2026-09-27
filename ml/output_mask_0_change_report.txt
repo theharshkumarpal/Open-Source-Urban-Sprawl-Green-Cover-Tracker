@@ -1,0 +1,14 @@
+=== Land Cover Statistics T1 (2020) ===
+- Built-up (Urban): 23370 px (35.66%)
+- Vegetation (Green Cover): 0 px (0.00%)
+- Water: 42166 px (64.34%)
+
+=== Land Cover Statistics T2 (2026) ===
+- Built-up (Urban): 20262 px (30.92%)
+- Vegetation (Green Cover): 0 px (0.00%)
+- Water: 45274 px (69.08%)
+
+=== Land Cover Change Detection Analysis (T1 (2020) -> T2 (2026)) ===
+- Built-up (Urban): 35.66% -> 30.92% (Change: -4.74%)
+- Vegetation (Green Cover): 0.00% -> 0.00% (Change: +0.00%)
+- Water: 64.34% -> 69.08% (Change: +4.74%)
